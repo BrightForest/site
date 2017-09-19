@@ -1,4 +1,4 @@
-package site
+package main
 
 import (
 "fmt"
